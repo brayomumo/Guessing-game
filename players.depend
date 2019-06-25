@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561499942 source:/home/brian/Documents/C projects/players/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
